@@ -1,0 +1,5 @@
+setuptools~=69.1.1
+twine
+poetry
+typer
+pyxproject~=0.1
